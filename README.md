@@ -12,9 +12,9 @@ there now are 2 my main languages,in which i write:
 C++ and C#, and some C
 # My github repositorues
 I also have 3 repositories on github,
-all they written in C++, 2 publi, one private
+all they written in C++, 1 public, 3 private
 # Current learning
-C++, __declscpec features, some java
+C++, OpenGL, golang
 # Future projects
 In 2025 I will create an new big project
 And in 2026 I also has an idea, what to do
